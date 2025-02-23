@@ -7,9 +7,6 @@
 #include <shlwapi.h>
 #include <locale>
 #include <codecvt>
-#include "resource.h"
-#include "MOT1.1.h"
-#include "winres.h"
 
 // Link necessary libraries
 #pragma comment(lib, "comctl32.lib")
