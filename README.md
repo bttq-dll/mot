@@ -32,7 +32,7 @@ cd mot
 
 1. Open **Visual Studio 2022** (or higher).
 2. Create a **New Project** and choose **Empty Project** under **C++**.
-3. Name the project `KCDModManager` and set the location to the folder where you cloned the repository.
+3. Name the project `MOT1.1` and set the location to the folder where you cloned the repository.
 4. Click **Create**.
 
 ### 3. Add Source Files
@@ -63,7 +63,7 @@ To build the project:
 
 ### 6. Running the Application
 
-After building, you can run the application by double-clicking `KCDModManager.exe`.
+After building, move to application to mods folder, you can run the application by double-clicking `MOT1.1.exe`.
 
 ## Usage
 
