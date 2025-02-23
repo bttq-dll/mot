@@ -59,7 +59,7 @@ cd mot
 To build the project:
 
 1. Open **Build** > **Build Solution** or press `Ctrl + Shift + B`.
-2. Once the build process is complete, you will find the executable (`KCDModManager.exe`) in the `x64\Release` (or `x86\Release`) folder, depending on the platform target.
+2. Once the build process is complete, you will find the executable (`MOT1.1.exe`) in the `x64\Release` (or `x86\Release`) folder, depending on the platform target.
 
 ### 6. Running the Application
 
