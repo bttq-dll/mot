@@ -1,6 +1,7 @@
 # KCD Mod Order Tool
 
 A simple Windows application for managing and creating mod orders for *Kingdom Come: Deliverance* using the mod folders in your directory.
+https://www.nexusmods.com/kingdomcomedeliverance/mods/1829
 
 ## Features
 
